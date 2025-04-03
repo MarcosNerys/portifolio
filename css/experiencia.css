@@ -65,22 +65,11 @@
     color: #4a4d4e;
 }
 
-:root {
-    --gradient: linear-gradient(
-        rigth,
-        rgb(0 198 255)
-        rgb(134 197 215)
-    )
-}
-
 .btn-acesso {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.125rem;
     line-height: 1.4;
-    background: -webkit-linear-gradient(left  #86C5D7,  #00FFF2);
-    background: linear-gradient(#86C5D7, #00FFF2);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #4a4d4e;
     border: 1px solid #86C5D7;
     border-radius: 4px;
     padding: 10px 20px;
